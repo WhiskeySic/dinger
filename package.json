@@ -1,0 +1,9 @@
+{
+  "name": "my-solana-project",
+  "version": "1.0.0",
+  "description": "Dinger Smart Contract",
+  "main": "index.js",
+  "repository": "https://github.com/WhiskeySic/dinger.git",
+  "license": "Apache-2.0",
+  "private": true
+}
